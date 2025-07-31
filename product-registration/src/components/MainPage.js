@@ -54,4 +54,4 @@ function MainPage({ onSelectPage }) {
 
 
 // Export MainPage component to be used in other files like App.js
-export default MainPage;
+export default MainPage; 
